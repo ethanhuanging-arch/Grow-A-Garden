@@ -1,1 +1,1 @@
-Read me this game is in constant update it may shut done sooner or later this is python you need to install python on https://www.python.org/downloads/ then download open file game thhen open this on notebook then save as GAG.py on computer and mac only
+ this game is in constant update it may shut done sooner or later this is python you need to install python on https://www.python.org/downloads/ then download the file  open file thhen open the download on notebook then save as GAG.py on computer and mac only
